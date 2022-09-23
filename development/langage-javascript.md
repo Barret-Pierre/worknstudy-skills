@@ -14,7 +14,7 @@
 ## 💻 Je code en Javascript
 
 ### Un exemple de code commenté ✔️
-
+```javascript
 let string = "Hello world !";
 
 // Converti la chaine de caractère en Ascii
@@ -56,6 +56,7 @@ function convertStringInBin(string) {
 }
 
 console.log(convertStringInBin(string));
+```
 
 ### Utilisation dans un projet ✔️
 
