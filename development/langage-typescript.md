@@ -14,7 +14,7 @@
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ✔️
-
+```typescript
 // Déclaration de l'interface User permettant de créer un type personaliser qui décrient la structure d'un objet.
 // L'objet User à un nom, un âge et une data d'anniverssaire qui est une propriété optionnelle
 interface IUser {
@@ -44,7 +44,7 @@ wilders.push(user3);
 
 // Execution de la fonction prettyPrintWilder
 prettyPrintWilder(wilders);
-
+```
 
 ### Utilisation dans un projet ❌ / ✔️
 
